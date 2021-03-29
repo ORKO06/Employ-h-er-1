@@ -1,5 +1,3 @@
-# Aimed for- Hack-Violet
-For the Hack-Violet Hackathon 
 
 # Project Title: Employ(H)er-"women determined to rise"
 
